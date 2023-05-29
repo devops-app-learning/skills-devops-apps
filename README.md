@@ -2,6 +2,10 @@
 
 This exercise checks your ability to manage GitHub Apps for your organization. It is automatically graded via a workflow once you have completed the instructions.
 
+## Note: change permissions for GITHUB_TOKEN
+
+[Link](https://dev.to/github/the-githubtoken-in-github-actions-how-it-works-change-permissions-customizations-3cgp#:~:text=So%2C%20let%27s%20see%20how%20we%20can%20change%20the,access%20the%20content%20and%20make%20changes%29%20or%20Read-only.)
+
 ## About this exercise
 
 :warning: A grading script exists under `.github/workflows/grading.yml`. You do not need to use this workflow for any purpose and **altering its contents will affect the repository's ability to assess your exercise and give feedback.**
