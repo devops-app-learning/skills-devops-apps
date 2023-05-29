@@ -4,7 +4,7 @@ This exercise checks your ability to manage GitHub Apps for your organization. I
 
 ## Note: change permissions for GITHUB_TOKEN
 
-[Link](https://dev.to/github/the-githubtoken-in-github-actions-how-it-works-change-permissions-customizations-3cgp#:~:text=So%2C%20let%27s%20see%20how%20we%20can%20change%20the,access%20the%20content%20and%20make%20changes%29%20or%20Read-only.)
+In Settings of this repo, click on Actions - General, change Workflow permissions to Read and write permissions.
 
 ## About this exercise
 
